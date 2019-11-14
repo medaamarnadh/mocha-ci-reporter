@@ -1,0 +1,33 @@
+{
+  "name": "mocha-ci-reporter",
+  "version": "1.0.0",
+  "description": "This module generates detailed mocha test running report and send to the slack communication channel by using provided slack webhook url.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medaamarnadh/mocha-ci-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "slack",
+    "mocha-reporter",
+    "mocha",
+    "test",
+    "report"
+  ],
+  "author": "Amar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medaamarnadh/mocha-ci-reporter/issues"
+  },
+  "homepage": "https://github.com/medaamarnadh/mocha-ci-reporter#readme",
+  "dependencies": {
+    "sync-request": "^6.1.0"
+  }
+}
