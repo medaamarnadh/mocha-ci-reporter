@@ -1,6 +1,6 @@
 {
   "name": "mocha-ci-reporter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This module generates detailed mocha test running report and send to the slack communication channel by using provided slack webhook url.",
   "main": "index.js",
   "directories": {
