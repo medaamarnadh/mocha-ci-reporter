@@ -18,7 +18,7 @@ It is recommended to use mocha programitically to configure your report in effic
         reporter: 'mocha-ci-reporter',
         reporterOptions:{
             slack: {
-                url:'https://hooks.slack.com/services/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',
+                url:'<Webhook url>',
                 channel: 'general',
                 username: 'medaamarnadh'
             },
